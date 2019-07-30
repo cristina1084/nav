@@ -1,5 +1,5 @@
 <?php
 
-header('location:profile.html');
+header('location:jqueryhw.html');
 
 ?>
